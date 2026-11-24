@@ -515,7 +515,7 @@ em { font-family: var(--font-serif); font-style: italic; font-weight: 400; lette
 .rb-wk { display: flex; flex-direction: column; gap: 12px; padding: 28px; background: var(--rb-card); border: 1px solid var(--rb-line); border-top: 4px solid var(--rb-blue); }
 .rb-wk h3 { font-size: 1.45rem; }
 .rb-wk a { color: var(--rb-accent-text); text-decoration: underline; text-underline-offset: 3px; }
-.rb-badge-offered { background: var(--rb-btn-bg); border-color: var(--rb-btn-bg); color: var(--rb-btn-ink); }
+.rb-badge.rb-badge-offered { background: var(--rb-btn-bg); border-color: var(--rb-btn-bg); color: var(--rb-btn-ink); }
 .rb-badge-planned-offering { background: var(--rb-yellow); border-color: var(--rb-yellow); color: var(--rb-blue); }
 .rb-res, .rb-person { display: flex; flex-direction: column; gap: 12px; padding: 28px; background: var(--rb-card); border: 1px solid var(--rb-line); border-top: 4px solid var(--rb-blue); }
 .rb-res-top { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
